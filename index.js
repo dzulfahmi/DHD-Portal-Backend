@@ -13,4 +13,4 @@ app.use(bodyParser.json());
 app.post('/api/register', registerController.register);
 app.post('/api/authenticate', authenticateController.authenticate);
 
-app.listen(8012);
+app.listen(3000);
