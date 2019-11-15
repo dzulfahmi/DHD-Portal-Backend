@@ -18,7 +18,7 @@
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.15.5",
-    "knex": "^0.13.0",
+    "knex": "^0.19.5",
     "mysql": "^2.14.1",
     "passwordjs": "^0.1.1"
   }
